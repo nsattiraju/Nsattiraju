@@ -36,7 +36,7 @@
 
 ## 🛠 Projects in Progress
 
-- ✅ **LeetCode Solutions Repo** – Tracking my problem-solving journey with categorized solutions and patterns.
+- ✅ **LeetCode Practice Repo** – Tracking my problem-solving journey with categorized solutions and patterns.
 - 🚧 **RSVP App** – A full-stack Spring Boot + React web app to manage event RSVPs.
 - 🚀 Planning to start an **AI/ML Portfolio**, including small NLP and recommendation system projects using Python.
 
